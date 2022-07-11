@@ -39,5 +39,9 @@ public class Test {
         return "Hello " + getName() +", you are " + getAge() +".";
     
     }
+    
+    public void epic(){
+       int x =1;
+    }
   
 }
